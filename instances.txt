@@ -1,0 +1,18 @@
+# Defining Instances
+
+Object: Chair
+
+Attributes:
+
+- swivelBase: true
+- seatHeight: 18.25
+- upholsteryType: "Vinyl"
+...
+
+
+Methods:
+
+- legRoom: 30 - 18.25 = 11.75
+- shippingSize: [(24 + 2.375), (24 + 2.375), (42.25 + 2.375)]
+- selectUpholstery: upholsteryType = "Suede"
+...
