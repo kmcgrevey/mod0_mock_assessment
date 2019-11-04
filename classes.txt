@@ -1,0 +1,19 @@
+# Attributes and Methods
+
+Class: Chair
+
+Attributes:
+
+- color (string)
+- swivelBase (boolean)
+- upholsteryType (array)
+- seatHeight (float)
+- legMaterial (string)
+- dimensions (float array)
+
+Methods:
+
+- legRoom (subtract seatHeight from a 'tableHeight' value)
+- doesItSwivel (if swivelBase equals true, then yes)
+- shippingSize (take dimensions and add a 'packagingThickness' value to it)
+- selectUpholstery (updates the material type from the list in the upholsteryType array)
