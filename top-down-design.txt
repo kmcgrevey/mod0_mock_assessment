@@ -1,0 +1,28 @@
+# Making a Sandwich
+
+1 Make Casing
+  1.1 Choose bread
+    1.1.1 locate bag of bread
+        1.1.1.1 open pantry door
+        1.1.1.2 look in pantry
+        1.1.1.3 grab bag of bread
+        1.1.1.4 put bag in prep area
+    1.1.2 pull out slices of bread
+        1.1.2.1 unfasten bag seal
+        1.1.2.2 grab two slices of bread
+        1.1.2.3 pull bread slices from bag
+        1.1.2.4 place selected slices in prep area
+  1.2 Choose schmear
+    1.2.1 locate cream cheese
+2 Make Filling
+  2.1 Select lunch meat
+  2.2 Select condiments
+  2.3 Select vegetables
+3 Assemble
+  3.1 Place bread slice on plate
+  3.2 Place fillings on casing material
+    3.2.1 put lunch meat on bread
+    3.2.2 put vegetables on lunch meat
+    3.2.3 apply condiments on top of vegetables
+  3.3 Place next bread slice on top on fillings
+4 Serve
